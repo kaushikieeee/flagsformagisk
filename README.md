@@ -1,1 +1,3 @@
-sample. 
+# Flags Configuration
+
+OOMBI=false
