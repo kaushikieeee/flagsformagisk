@@ -1,3 +1,3 @@
 # Flags Configuration
 
-OOMBI=false
+OOMBI=true
